@@ -1,3 +1,1 @@
-# do_something_after_some_time_with_javascript
-# do_something_after_some_time_with_javascript
-# do_something_after_some_time_with_javascript
+### کافیه ی زمانی رو در نظر بگیرین که بعد اون یک کار برای شما انجام بشه توی صفحه وب :)
